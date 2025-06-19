@@ -48,11 +48,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Hi, I'm Manish Vishnoi — a Full Stack Developer and Data Analyst.
+Skilled in TypeScript, JavaScript, React, Node.js, and Three.js, with hands-on experience in the MERN stack and data visualization tools like Python, SQL, Excel, and Power BI.
+
+I build scalable, efficient, and user-friendly applications that solve real-world problems. My work spans task management systems with JWT authentication, interactive dashboards, and machine learning-powered tools.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

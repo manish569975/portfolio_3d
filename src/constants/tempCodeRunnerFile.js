@@ -1,4 +1,6 @@
-import { motion } from "framer-motion";
+import { h1 } from "framer-motion/client";
+
+
 
 import {
   mobile,
